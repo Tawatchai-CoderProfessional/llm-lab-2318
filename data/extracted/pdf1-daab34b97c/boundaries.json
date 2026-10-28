@@ -1,0 +1,1299 @@
+{
+  "schema_version": 1,
+  "document_id": "daab34b97cf43c5d287374fc453bf45a7de0049fae0edd731a1091603ae2826c",
+  "source_file": "pdf1.pdf",
+  "reviewed": true,
+  "mode": "bookmarks",
+  "body_font_size": 10.0,
+  "boundaries": [
+    {
+      "outline_index": 1,
+      "level": 1,
+      "title": "Domain-Specific Small Langauge Models",
+      "pdf_page": 1,
+      "line_id": "p0001-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: book-title bookmark; cover title is an image, anchored at first text line of cover."
+    },
+    {
+      "outline_index": 2,
+      "level": 1,
+      "title": "brief contents",
+      "pdf_page": 6,
+      "line_id": "p0006-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 3,
+      "level": 1,
+      "title": "contents",
+      "pdf_page": 8,
+      "line_id": "p0008-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 4,
+      "level": 1,
+      "title": "foreword",
+      "pdf_page": 13,
+      "line_id": "p0013-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 5,
+      "level": 1,
+      "title": "preface",
+      "pdf_page": 15,
+      "line_id": "p0015-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 6,
+      "level": 1,
+      "title": "acknowledgments",
+      "pdf_page": 16,
+      "line_id": "p0016-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 7,
+      "level": 1,
+      "title": "about this book",
+      "pdf_page": 17,
+      "line_id": "p0017-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 8,
+      "level": 2,
+      "title": "Who should read this book",
+      "pdf_page": 17,
+      "line_id": "p0017-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 9,
+      "level": 2,
+      "title": "How this book is organized: A roadmap",
+      "pdf_page": 18,
+      "line_id": "p0018-l0007",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 10,
+      "level": 2,
+      "title": "About the code",
+      "pdf_page": 19,
+      "line_id": "p0019-l0010",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 11,
+      "level": 2,
+      "title": "liveBook discussion forum",
+      "pdf_page": 19,
+      "line_id": "p0019-l0027",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 12,
+      "level": 1,
+      "title": "about the author",
+      "pdf_page": 20,
+      "line_id": "p0020-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 13,
+      "level": 1,
+      "title": "about the cover illustration",
+      "pdf_page": 21,
+      "line_id": "p0021-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 14,
+      "level": 1,
+      "title": "Part 1 First Steps",
+      "pdf_page": 22,
+      "line_id": "p0022-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 15,
+      "level": 2,
+      "title": "1 Small language models",
+      "pdf_page": 24,
+      "line_id": "p0024-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: chapter opener; title is the first 30pt line, chapter number typeset separately."
+    },
+    {
+      "outline_index": 16,
+      "level": 3,
+      "title": "1.1\tWhat are small language models?",
+      "pdf_page": 25,
+      "line_id": "p0025-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 17,
+      "level": 3,
+      "title": "1.2\tThe Transformer architecture",
+      "pdf_page": 26,
+      "line_id": "p0026-l0005",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 18,
+      "level": 3,
+      "title": "1.3\tAreas of application",
+      "pdf_page": 27,
+      "line_id": "p0027-l0011",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 19,
+      "level": 3,
+      "title": "1.4\tThe open source revolution",
+      "pdf_page": 27,
+      "line_id": "p0027-l0034",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 20,
+      "level": 3,
+      "title": "1.5\tRisks and challenges with generalist LLMs",
+      "pdf_page": 31,
+      "line_id": "p0031-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 21,
+      "level": 3,
+      "title": "1.6\tDomain-specific vs. generalist LLMs for business value",
+      "pdf_page": 32,
+      "line_id": "p0032-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 22,
+      "level": 1,
+      "title": "Part 2 Core domain-specific LLMs",
+      "pdf_page": 36,
+      "line_id": "p0036-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 23,
+      "level": 2,
+      "title": "2 Tuning for a specific domain",
+      "pdf_page": 38,
+      "line_id": "p0038-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: chapter opener; title is the first 30pt line, chapter number typeset separately."
+    },
+    {
+      "outline_index": 24,
+      "level": 3,
+      "title": "2.1\tData preparation",
+      "pdf_page": 38,
+      "line_id": "p0038-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 25,
+      "level": 4,
+      "title": "2.1.1\tData preparation for BERT fine-tuning",
+      "pdf_page": 39,
+      "line_id": "p0039-l0005",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 26,
+      "level": 4,
+      "title": "2.1.2\tData preparation for GPT fine-tuning",
+      "pdf_page": 41,
+      "line_id": "p0041-l0022",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 27,
+      "level": 4,
+      "title": "2.1.3\tData preparation for RAG",
+      "pdf_page": 43,
+      "line_id": "p0043-l0005",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 28,
+      "level": 3,
+      "title": "2.2\tRetrieval-augmented generation",
+      "pdf_page": 45,
+      "line_id": "p0045-l0027",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 29,
+      "level": 3,
+      "title": "2.3\tFine-tuning",
+      "pdf_page": 46,
+      "line_id": "p0046-l0030",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 30,
+      "level": 3,
+      "title": "2.4\tLoRA",
+      "pdf_page": 50,
+      "line_id": "p0050-l0033",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 31,
+      "level": 3,
+      "title": "2.5\tRAG or fine-tuning?",
+      "pdf_page": 55,
+      "line_id": "p0055-l0027",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 32,
+      "level": 2,
+      "title": "3 End-to-end transformer fine-tuning",
+      "pdf_page": 57,
+      "line_id": "p0057-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: chapter opener; title is the first 30pt line, chapter number typeset separately."
+    },
+    {
+      "outline_index": 33,
+      "level": 3,
+      "title": "3.1\tData preparation",
+      "pdf_page": 57,
+      "line_id": "p0057-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 34,
+      "level": 3,
+      "title": "3.2\tFine-tuning",
+      "pdf_page": 59,
+      "line_id": "p0059-l0030",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 35,
+      "level": 3,
+      "title": "3.3\tTesting the fine-tuned model",
+      "pdf_page": 62,
+      "line_id": "p0062-l0033",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 36,
+      "level": 3,
+      "title": "3.4\tDomain-specific evaluation",
+      "pdf_page": 65,
+      "line_id": "p0065-l0020",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 37,
+      "level": 2,
+      "title": "4 Running inference",
+      "pdf_page": 72,
+      "line_id": "p0072-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: chapter opener; title is the first 30pt line, chapter number typeset separately."
+    },
+    {
+      "outline_index": 38,
+      "level": 3,
+      "title": "4.1\tHow to generate content",
+      "pdf_page": 72,
+      "line_id": "p0072-l0012",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 39,
+      "level": 4,
+      "title": "4.1.1\tText completion",
+      "pdf_page": 73,
+      "line_id": "p0073-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 40,
+      "level": 4,
+      "title": "4.1.2\tFew-shot learning",
+      "pdf_page": 76,
+      "line_id": "p0076-l0006",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 41,
+      "level": 4,
+      "title": "4.1.3\tCode generation",
+      "pdf_page": 77,
+      "line_id": "p0077-l0024",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 42,
+      "level": 4,
+      "title": "4.1.4\tEvaluating the generated content",
+      "pdf_page": 78,
+      "line_id": "p0078-l0040",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 43,
+      "level": 3,
+      "title": "4.2\tCalculating inference cost",
+      "pdf_page": 80,
+      "line_id": "p0080-l0019",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 44,
+      "level": 3,
+      "title": "4.3\tAreas for improvement (cost savings and performance)",
+      "pdf_page": 81,
+      "line_id": "p0081-l0030",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 45,
+      "level": 4,
+      "title": "4.3.1\tGetting the most from your GPU",
+      "pdf_page": 81,
+      "line_id": "p0081-l0038",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 46,
+      "level": 4,
+      "title": "4.3.2\tBatching",
+      "pdf_page": 85,
+      "line_id": "p0085-l0018",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 47,
+      "level": 4,
+      "title": "4.3.3\tEstimating the generation time",
+      "pdf_page": 86,
+      "line_id": "p0086-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 48,
+      "level": 4,
+      "title": "4.3.4\tOptimizing GPU use with DeepSpeed",
+      "pdf_page": 87,
+      "line_id": "p0087-l0032",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 49,
+      "level": 2,
+      "title": "5 Exploring ONNX",
+      "pdf_page": 92,
+      "line_id": "p0092-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: chapter opener; title is the first 30pt line, chapter number typeset separately."
+    },
+    {
+      "outline_index": 50,
+      "level": 3,
+      "title": "5.1\tThe ONNX format",
+      "pdf_page": 92,
+      "line_id": "p0092-l0012",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 51,
+      "level": 3,
+      "title": "5.2\tONNX operators and types",
+      "pdf_page": 95,
+      "line_id": "p0095-l0036",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 52,
+      "level": 3,
+      "title": "5.3\tThe ONNX runtime",
+      "pdf_page": 102,
+      "line_id": "p0102-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 53,
+      "level": 3,
+      "title": "5.4\tONNX runtime providers",
+      "pdf_page": 103,
+      "line_id": "p0103-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 54,
+      "level": 3,
+      "title": "5.5\tONNX for LLMs on CPU",
+      "pdf_page": 105,
+      "line_id": "p0105-l0019",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 55,
+      "level": 3,
+      "title": "5.6\tONNX for LLMs on GPU",
+      "pdf_page": 109,
+      "line_id": "p0109-l0032",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 56,
+      "level": 4,
+      "title": "5.6.1\tONNX for GPT on GPU",
+      "pdf_page": 110,
+      "line_id": "p0110-l0026",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 57,
+      "level": 4,
+      "title": "5.6.2\tI/O binding",
+      "pdf_page": 113,
+      "line_id": "p0113-l0009",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 58,
+      "level": 2,
+      "title": "6 Quantizing for your production environment",
+      "pdf_page": 117,
+      "line_id": "p0117-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: chapter opener; title is the first 30pt line, chapter number typeset separately."
+    },
+    {
+      "outline_index": 59,
+      "level": 3,
+      "title": "6.1\tTransformers precision formats",
+      "pdf_page": 117,
+      "line_id": "p0117-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 60,
+      "level": 3,
+      "title": "6.2\t8-bit quantization",
+      "pdf_page": 120,
+      "line_id": "p0120-l0009",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 61,
+      "level": 4,
+      "title": "6.2.1\tHands-on 8-bit quantization",
+      "pdf_page": 121,
+      "line_id": "p0121-l0026",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 62,
+      "level": 4,
+      "title": "6.2.2\tLLM.int8() and quantization",
+      "pdf_page": 125,
+      "line_id": "p0125-l0027",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 63,
+      "level": 3,
+      "title": "6.3\t8-bit quantization with ONNX",
+      "pdf_page": 128,
+      "line_id": "p0128-l0017",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 64,
+      "level": 3,
+      "title": "6.4\t4-bit quantization",
+      "pdf_page": 133,
+      "line_id": "p0133-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 65,
+      "level": 4,
+      "title": "6.4.1\t4-bit quantization with GPTQ",
+      "pdf_page": 133,
+      "line_id": "p0133-l0008",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 66,
+      "level": 4,
+      "title": "6.4.2\t4-bit quantization with ggml",
+      "pdf_page": 135,
+      "line_id": "p0135-l0034",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 67,
+      "level": 1,
+      "title": "Part 3 Real-world use cases",
+      "pdf_page": 140,
+      "line_id": "p0140-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 68,
+      "level": 2,
+      "title": "7 Generating Python code",
+      "pdf_page": 142,
+      "line_id": "p0142-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: chapter opener; title is the first 30pt line, chapter number typeset separately."
+    },
+    {
+      "outline_index": 69,
+      "level": 3,
+      "title": "7.1\tUsing Transformers to generate code",
+      "pdf_page": 142,
+      "line_id": "p0142-l0016",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 70,
+      "level": 3,
+      "title": "7.2\tGenerating Python code with a Transformer architecture",
+      "pdf_page": 144,
+      "line_id": "p0144-l0036",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 71,
+      "level": 4,
+      "title": "7.2.1\tPython code generation with CodeGen",
+      "pdf_page": 144,
+      "line_id": "p0144-l0040",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 72,
+      "level": 4,
+      "title": "7.2.2\tUsing ONNX with models not supported by Optimum",
+      "pdf_page": 154,
+      "line_id": "p0154-l0020",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 73,
+      "level": 4,
+      "title": "7.2.3\tModel evaluation",
+      "pdf_page": 155,
+      "line_id": "p0155-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 74,
+      "level": 4,
+      "title": "7.2.4\tPython code generation with better models",
+      "pdf_page": 158,
+      "line_id": "p0158-l0014",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 75,
+      "level": 3,
+      "title": "7.3\tCoding assistance on commodity hardware",
+      "pdf_page": 161,
+      "line_id": "p0161-l0012",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 76,
+      "level": 2,
+      "title": "8 Generating protein structures",
+      "pdf_page": 166,
+      "line_id": "p0166-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: chapter opener; title is the first 30pt line, chapter number typeset separately."
+    },
+    {
+      "outline_index": 77,
+      "level": 3,
+      "title": "8.1\tApplying Transformers in chemistry",
+      "pdf_page": 166,
+      "line_id": "p0166-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 78,
+      "level": 3,
+      "title": "8.2\tFrom natural language to protein structures",
+      "pdf_page": 168,
+      "line_id": "p0168-l0016",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 79,
+      "level": 3,
+      "title": "8.3\tAntibody generation with an SLM",
+      "pdf_page": 170,
+      "line_id": "p0170-l0026",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 80,
+      "level": 3,
+      "title": "8.4\tFrom CIF files to crystal structures",
+      "pdf_page": 174,
+      "line_id": "p0174-l0017",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 81,
+      "level": 1,
+      "title": "Part 4 Advanced concepts",
+      "pdf_page": 184,
+      "line_id": "p0184-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 82,
+      "level": 2,
+      "title": "9 Advanced quantization techniques",
+      "pdf_page": 186,
+      "line_id": "p0186-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: chapter opener; title is the first 30pt line, chapter number typeset separately."
+    },
+    {
+      "outline_index": 83,
+      "level": 3,
+      "title": "9.1\tFlexGen",
+      "pdf_page": 187,
+      "line_id": "p0187-l0012",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 84,
+      "level": 3,
+      "title": "9.2\tSmoothQuant",
+      "pdf_page": 192,
+      "line_id": "p0192-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 85,
+      "level": 3,
+      "title": "9.3\tBitNet",
+      "pdf_page": 197,
+      "line_id": "p0197-l0015",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 86,
+      "level": 3,
+      "title": "9.4\tBitNet and Python",
+      "pdf_page": 200,
+      "line_id": "p0200-l0005",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 87,
+      "level": 2,
+      "title": "10 Profiling insights",
+      "pdf_page": 205,
+      "line_id": "p0205-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: chapter opener; title is the first 30pt line, chapter number typeset separately."
+    },
+    {
+      "outline_index": 88,
+      "level": 3,
+      "title": "10.1\tProfiling ONNX-ported LLMs",
+      "pdf_page": 205,
+      "line_id": "p0205-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 89,
+      "level": 3,
+      "title": "10.2\tTransforming raw ONNX profiling data into insights",
+      "pdf_page": 209,
+      "line_id": "p0209-l0005",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 90,
+      "level": 3,
+      "title": "10.3\tOptimization of ONNX graphs for LLMs",
+      "pdf_page": 218,
+      "line_id": "p0218-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 91,
+      "level": 2,
+      "title": "11 Deployment and serving",
+      "pdf_page": 227,
+      "line_id": "p0227-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: chapter opener; title is the first 30pt line, chapter number typeset separately."
+    },
+    {
+      "outline_index": 92,
+      "level": 3,
+      "title": "11.1\tvLLM",
+      "pdf_page": 227,
+      "line_id": "p0227-l0016",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 93,
+      "level": 4,
+      "title": "11.1.1\tOffline serving",
+      "pdf_page": 229,
+      "line_id": "p0229-l0022",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 94,
+      "level": 4,
+      "title": "11.1.2\tOnline serving",
+      "pdf_page": 233,
+      "line_id": "p0233-l0030",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 95,
+      "level": 3,
+      "title": "11.2\tFastAPI",
+      "pdf_page": 236,
+      "line_id": "p0236-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 96,
+      "level": 4,
+      "title": "11.2.1\tBenchmarking various models",
+      "pdf_page": 239,
+      "line_id": "p0239-l0017",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 97,
+      "level": 4,
+      "title": "11.2.2\tDeploying the best-performing model with FastAPI",
+      "pdf_page": 243,
+      "line_id": "p0243-l0012",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 98,
+      "level": 3,
+      "title": "11.3\tMLC LLM",
+      "pdf_page": 244,
+      "line_id": "p0244-l0026",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 99,
+      "level": 3,
+      "title": "11.4\tDeployment and inference on Android devices",
+      "pdf_page": 250,
+      "line_id": "p0250-l0008",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 100,
+      "level": 4,
+      "title": "11.4.1\tMLC LLM framework",
+      "pdf_page": 250,
+      "line_id": "p0250-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 101,
+      "level": 4,
+      "title": "11.4.2\tMLLM framework",
+      "pdf_page": 250,
+      "line_id": "p0250-l0035",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 102,
+      "level": 4,
+      "title": "11.4.3\tHugging Face Transformers",
+      "pdf_page": 252,
+      "line_id": "p0252-l0018",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 103,
+      "level": 2,
+      "title": "12 Running on your laptop",
+      "pdf_page": 256,
+      "line_id": "p0256-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: chapter opener; title is the first 30pt line, chapter number typeset separately."
+    },
+    {
+      "outline_index": 104,
+      "level": 3,
+      "title": "12.1\tWhy use a personal local assistant",
+      "pdf_page": 257,
+      "line_id": "p0257-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 105,
+      "level": 3,
+      "title": "12.2\tRunning an LLM locally with Ollama",
+      "pdf_page": 257,
+      "line_id": "p0257-l0023",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 106,
+      "level": 4,
+      "title": "12.2.1\tImporting a custom model into Ollama",
+      "pdf_page": 261,
+      "line_id": "p0261-l0016",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 107,
+      "level": 4,
+      "title": "12.2.2\tUser privacy in Ollama",
+      "pdf_page": 264,
+      "line_id": "p0264-l0014",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 108,
+      "level": 3,
+      "title": "12.3\tRunning an LLM locally with LM Studio",
+      "pdf_page": 265,
+      "line_id": "p0265-l0010",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 109,
+      "level": 3,
+      "title": "12.4\tThe LM Studio Python SDK",
+      "pdf_page": 269,
+      "line_id": "p0269-l0011",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 110,
+      "level": 3,
+      "title": "12.5\tRunning an LLM locally with Jan",
+      "pdf_page": 272,
+      "line_id": "p0272-l0025",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 111,
+      "level": 3,
+      "title": "12.6\tThe Cortex local LLM engine",
+      "pdf_page": 274,
+      "line_id": "p0274-l0006",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 112,
+      "level": 2,
+      "title": "13 Creating end-to-end LLM applications",
+      "pdf_page": 279,
+      "line_id": "p0279-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: chapter opener; title is the first 30pt line, chapter number typeset separately."
+    },
+    {
+      "outline_index": 113,
+      "level": 3,
+      "title": "13.1\tWhy LLMs alone aren’t enough",
+      "pdf_page": 280,
+      "line_id": "p0280-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 114,
+      "level": 3,
+      "title": "13.2\tCombining a domain-specific SLM with RAG",
+      "pdf_page": 282,
+      "line_id": "p0282-l0015",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 115,
+      "level": 3,
+      "title": "13.3\tUsing a vector database",
+      "pdf_page": 296,
+      "line_id": "p0296-l0031",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 116,
+      "level": 3,
+      "title": "13.4\tBuilding an agent",
+      "pdf_page": 300,
+      "line_id": "p0300-l0046",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 117,
+      "level": 2,
+      "title": "14 Advanced components for LLM applications",
+      "pdf_page": 313,
+      "line_id": "p0313-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: chapter opener; title is the first 30pt line, chapter number typeset separately."
+    },
+    {
+      "outline_index": 118,
+      "level": 3,
+      "title": "14.1\tGraphRAG",
+      "pdf_page": 313,
+      "line_id": "p0313-l0015",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 119,
+      "level": 4,
+      "title": "14.1.1\tMicrosoft’s open source GraphRAG capabilities",
+      "pdf_page": 326,
+      "line_id": "p0326-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 120,
+      "level": 4,
+      "title": "14.1.2\tEvaluation metrics",
+      "pdf_page": 327,
+      "line_id": "p0327-l0023",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 121,
+      "level": 3,
+      "title": "14.2\tRAG + Agentic AI",
+      "pdf_page": 328,
+      "line_id": "p0328-l0042",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 122,
+      "level": 3,
+      "title": "14.3\tLong- and short-term memory management",
+      "pdf_page": 341,
+      "line_id": "p0341-l0012",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 123,
+      "level": 2,
+      "title": "15 Test-time compute and small language models",
+      "pdf_page": 347,
+      "line_id": "p0347-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: chapter opener; title is the first 30pt line, chapter number typeset separately."
+    },
+    {
+      "outline_index": 124,
+      "level": 3,
+      "title": "15.1\tTest-time compute",
+      "pdf_page": 347,
+      "line_id": "p0347-l0017",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 125,
+      "level": 3,
+      "title": "15.2\tThe OptiLLM inference proxy",
+      "pdf_page": 349,
+      "line_id": "p0349-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 126,
+      "level": 3,
+      "title": "15.3\tSLMs with embedded test-time compute",
+      "pdf_page": 358,
+      "line_id": "p0358-l0009",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 127,
+      "level": 3,
+      "title": "15.4\tBuilding a reasoning domain-specific SLM",
+      "pdf_page": 359,
+      "line_id": "p0359-l0008",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 128,
+      "level": 1,
+      "title": "index",
+      "pdf_page": 368,
+      "line_id": "p0368-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    }
+  ],
+  "warnings": [],
+  "review_instructions": [
+    "Review boundaries.json in VS Code alongside lines.txt and the PDF.",
+    "An accepted boundary must have a valid line_id and its matching pdf_page.",
+    "For a non-heading bookmark, use status skip and explain why in note.",
+    "Keep boundaries in document order; same-line entries must form a parent-child chain.",
+    "Set reviewed to true only after reviewing. This is a human review gate.",
+    "Skipping a boundary never deletes its source text."
+  ]
+}

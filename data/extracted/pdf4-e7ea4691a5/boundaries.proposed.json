@@ -1,0 +1,3021 @@
+{
+  "schema_version": 1,
+  "document_id": "e7ea4691a50441f7a7a6924f76793bfb79366b91727c3a75f0482e0e6aab4993",
+  "source_file": "pdf4.pdf",
+  "reviewed": false,
+  "mode": "bookmarks",
+  "body_font_size": 10.5,
+  "boundaries": [
+    {
+      "outline_index": 1,
+      "level": 1,
+      "title": "Cover",
+      "pdf_page": 1,
+      "line_id": null,
+      "method": "unresolved",
+      "status": "unresolved",
+      "note": "Choose a valid source line, or skip with an explanatory note.",
+      "suggestions": []
+    },
+    {
+      "outline_index": 2,
+      "level": 1,
+      "title": "Copyright",
+      "pdf_page": 4,
+      "line_id": null,
+      "method": "unresolved",
+      "status": "unresolved",
+      "note": "Choose a valid source line, or skip with an explanatory note.",
+      "suggestions": []
+    },
+    {
+      "outline_index": 3,
+      "level": 1,
+      "title": "Table of Contents",
+      "pdf_page": 5,
+      "line_id": "p0005-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 4,
+      "level": 1,
+      "title": "Preface",
+      "pdf_page": 13,
+      "line_id": "p0013-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 5,
+      "level": 2,
+      "title": "The Machine Learning Tsunami",
+      "pdf_page": 13,
+      "line_id": "p0013-l0002",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 6,
+      "level": 2,
+      "title": "Machine Learning in Your Projects",
+      "pdf_page": 13,
+      "line_id": "p0013-l0018",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 7,
+      "level": 2,
+      "title": "Objective and Approach",
+      "pdf_page": 14,
+      "line_id": "p0014-l0011",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 8,
+      "level": 2,
+      "title": "Prerequisites",
+      "pdf_page": 15,
+      "line_id": "p0015-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 9,
+      "level": 2,
+      "title": "Roadmap",
+      "pdf_page": 15,
+      "line_id": "p0015-l0016",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 10,
+      "level": 2,
+      "title": "Other Resources",
+      "pdf_page": 17,
+      "line_id": "p0017-l0021",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 11,
+      "level": 2,
+      "title": "Conventions Used in This Book",
+      "pdf_page": 18,
+      "line_id": "p0018-l0021",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 12,
+      "level": 2,
+      "title": "Code Examples",
+      "pdf_page": 19,
+      "line_id": "p0019-l0004",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 13,
+      "level": 2,
+      "title": "Using Code Examples",
+      "pdf_page": 20,
+      "line_id": "p0020-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 14,
+      "level": 2,
+      "title": "O’Reilly Safari",
+      "pdf_page": 20,
+      "line_id": "p0020-l0017",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 15,
+      "level": 2,
+      "title": "How to Contact Us",
+      "pdf_page": 20,
+      "line_id": "p0020-l0029",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 16,
+      "level": 2,
+      "title": "Changes in the Second Edition",
+      "pdf_page": 21,
+      "line_id": "p0021-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 17,
+      "level": 2,
+      "title": "Acknowledgments",
+      "pdf_page": 25,
+      "line_id": "p0025-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 18,
+      "level": 1,
+      "title": "Part I. The Fundamentals of Machine Learning",
+      "pdf_page": 27,
+      "line_id": "p0027-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 19,
+      "level": 2,
+      "title": "Chapter 1. The Machine Learning Landscape",
+      "pdf_page": 29,
+      "line_id": "p0029-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 20,
+      "level": 3,
+      "title": "What Is Machine Learning?",
+      "pdf_page": 30,
+      "line_id": "p0030-l0009",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 21,
+      "level": 3,
+      "title": "Why Use Machine Learning?",
+      "pdf_page": 30,
+      "line_id": "p0030-l0031",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 22,
+      "level": 3,
+      "title": "Types of Machine Learning Systems",
+      "pdf_page": 34,
+      "line_id": "p0034-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 23,
+      "level": 4,
+      "title": "Supervised/Unsupervised Learning",
+      "pdf_page": 34,
+      "line_id": "p0034-l0016",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 24,
+      "level": 4,
+      "title": "Batch and Online Learning",
+      "pdf_page": 41,
+      "line_id": "p0041-l0008",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 25,
+      "level": 4,
+      "title": "Instance-Based Versus Model-Based Learning",
+      "pdf_page": 44,
+      "line_id": "p0044-l0005",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 26,
+      "level": 3,
+      "title": "Main Challenges of Machine Learning",
+      "pdf_page": 50,
+      "line_id": "p0050-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 27,
+      "level": 4,
+      "title": "Insufficient Quantity of Training Data",
+      "pdf_page": 50,
+      "line_id": "p0050-l0005",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 28,
+      "level": 4,
+      "title": "Nonrepresentative Training Data",
+      "pdf_page": 52,
+      "line_id": "p0052-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 29,
+      "level": 4,
+      "title": "Poor-Quality Data",
+      "pdf_page": 53,
+      "line_id": "p0053-l0018",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 30,
+      "level": 4,
+      "title": "Irrelevant Features",
+      "pdf_page": 53,
+      "line_id": "p0053-l0030",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 31,
+      "level": 4,
+      "title": "Overfitting the Training Data",
+      "pdf_page": 54,
+      "line_id": "p0054-l0008",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 32,
+      "level": 4,
+      "title": "Underfitting the Training Data",
+      "pdf_page": 56,
+      "line_id": "p0056-l0011",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 33,
+      "level": 4,
+      "title": "Stepping Back",
+      "pdf_page": 56,
+      "line_id": "p0056-l0022",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 34,
+      "level": 3,
+      "title": "Testing and Validating",
+      "pdf_page": 57,
+      "line_id": "p0057-l0019",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 35,
+      "level": 4,
+      "title": "Hyperparameter Tuning and Model Selection",
+      "pdf_page": 58,
+      "line_id": "p0058-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 36,
+      "level": 4,
+      "title": "Data Mismatch",
+      "pdf_page": 59,
+      "line_id": "p0059-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 37,
+      "level": 3,
+      "title": "Exercises",
+      "pdf_page": 60,
+      "line_id": "p0060-l0008",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 38,
+      "level": 2,
+      "title": "Chapter 2. End-to-End Machine Learning Project",
+      "pdf_page": 63,
+      "line_id": "p0063-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 39,
+      "level": 3,
+      "title": "Working with Real Data",
+      "pdf_page": 64,
+      "line_id": "p0064-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 40,
+      "level": 3,
+      "title": "Look at the Big Picture",
+      "pdf_page": 65,
+      "line_id": "p0065-l0002",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 41,
+      "level": 4,
+      "title": "Frame the Problem",
+      "pdf_page": 65,
+      "line_id": "p0065-l0019",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 42,
+      "level": 4,
+      "title": "Select a Performance Measure",
+      "pdf_page": 68,
+      "line_id": "p0068-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 43,
+      "level": 4,
+      "title": "Check the Assumptions",
+      "pdf_page": 71,
+      "line_id": "p0071-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 44,
+      "level": 3,
+      "title": "Get the Data",
+      "pdf_page": 71,
+      "line_id": "p0071-l0017",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 45,
+      "level": 4,
+      "title": "Create the Workspace",
+      "pdf_page": 71,
+      "line_id": "p0071-l0021",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 46,
+      "level": 4,
+      "title": "Download the Data",
+      "pdf_page": 75,
+      "line_id": "p0075-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 47,
+      "level": 4,
+      "title": "Take a Quick Look at the Data Structure",
+      "pdf_page": 76,
+      "line_id": "p0076-l0006",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 48,
+      "level": 4,
+      "title": "Create a Test Set",
+      "pdf_page": 80,
+      "line_id": "p0080-l0023",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 49,
+      "level": 3,
+      "title": "Discover and Visualize the Data to Gain Insights",
+      "pdf_page": 84,
+      "line_id": "p0084-l0025",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 50,
+      "level": 4,
+      "title": "Visualizing Geographical Data",
+      "pdf_page": 85,
+      "line_id": "p0085-l0005",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 51,
+      "level": 4,
+      "title": "Looking for Correlations",
+      "pdf_page": 88,
+      "line_id": "p0088-l0007",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 52,
+      "level": 4,
+      "title": "Experimenting with Attribute Combinations",
+      "pdf_page": 91,
+      "line_id": "p0091-l0002",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 53,
+      "level": 3,
+      "title": "Prepare the Data for Machine Learning Algorithms",
+      "pdf_page": 92,
+      "line_id": "p0092-l0023",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 54,
+      "level": 4,
+      "title": "Data Cleaning",
+      "pdf_page": 93,
+      "line_id": "p0093-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 55,
+      "level": 4,
+      "title": "Handling Text and Categorical Attributes",
+      "pdf_page": 95,
+      "line_id": "p0095-l0015",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 56,
+      "level": 4,
+      "title": "Custom Transformers",
+      "pdf_page": 97,
+      "line_id": "p0097-l0029",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 57,
+      "level": 4,
+      "title": "Feature Scaling",
+      "pdf_page": 98,
+      "line_id": "p0098-l0029",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 58,
+      "level": 4,
+      "title": "Transformation Pipelines",
+      "pdf_page": 99,
+      "line_id": "p0099-l0017",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 59,
+      "level": 3,
+      "title": "Select and Train a Model",
+      "pdf_page": 101,
+      "line_id": "p0101-l0015",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 60,
+      "level": 4,
+      "title": "Training and Evaluating on the Training Set",
+      "pdf_page": 101,
+      "line_id": "p0101-l0020",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 61,
+      "level": 4,
+      "title": "Better Evaluation Using Cross-Validation",
+      "pdf_page": 102,
+      "line_id": "p0102-l0037",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 62,
+      "level": 3,
+      "title": "Fine-Tune Your Model",
+      "pdf_page": 105,
+      "line_id": "p0105-l0014",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 63,
+      "level": 4,
+      "title": "Grid Search",
+      "pdf_page": 105,
+      "line_id": "p0105-l0017",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 64,
+      "level": 4,
+      "title": "Randomized Search",
+      "pdf_page": 107,
+      "line_id": "p0107-l0033",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 65,
+      "level": 4,
+      "title": "Ensemble Methods",
+      "pdf_page": 108,
+      "line_id": "p0108-l0006",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 66,
+      "level": 4,
+      "title": "Analyze the Best Models and Their Errors",
+      "pdf_page": 108,
+      "line_id": "p0108-l0012",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 67,
+      "level": 4,
+      "title": "Evaluate Your System on the Test Set",
+      "pdf_page": 109,
+      "line_id": "p0109-l0009",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 68,
+      "level": 3,
+      "title": "Launch, Monitor, and Maintain Your System",
+      "pdf_page": 110,
+      "line_id": "p0110-l0012",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 69,
+      "level": 3,
+      "title": "Try It Out!",
+      "pdf_page": 111,
+      "line_id": "p0111-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 70,
+      "level": 3,
+      "title": "Exercises",
+      "pdf_page": 111,
+      "line_id": "p0111-l0014",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 71,
+      "level": 2,
+      "title": "Chapter 3. Classification",
+      "pdf_page": 113,
+      "line_id": "p0113-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 72,
+      "level": 3,
+      "title": "MNIST",
+      "pdf_page": 113,
+      "line_id": "p0113-l0014",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 73,
+      "level": 3,
+      "title": "Training a Binary Classifier",
+      "pdf_page": 116,
+      "line_id": "p0116-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 74,
+      "level": 3,
+      "title": "Performance Measures",
+      "pdf_page": 116,
+      "line_id": "p0116-l0027",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 75,
+      "level": 4,
+      "title": "Measuring Accuracy Using Cross-Validation",
+      "pdf_page": 117,
+      "line_id": "p0117-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 76,
+      "level": 4,
+      "title": "Confusion Matrix",
+      "pdf_page": 118,
+      "line_id": "p0118-l0023",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 77,
+      "level": 4,
+      "title": "Precision and Recall",
+      "pdf_page": 120,
+      "line_id": "p0120-l0010",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 78,
+      "level": 4,
+      "title": "Precision/Recall Tradeoff",
+      "pdf_page": 121,
+      "line_id": "p0121-l0033",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 79,
+      "level": 4,
+      "title": "The ROC Curve",
+      "pdf_page": 125,
+      "line_id": "p0125-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 80,
+      "level": 3,
+      "title": "Multiclass Classification",
+      "pdf_page": 128,
+      "line_id": "p0128-l0012",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 81,
+      "level": 3,
+      "title": "Error Analysis",
+      "pdf_page": 130,
+      "line_id": "p0130-l0032",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 82,
+      "level": 3,
+      "title": "Multilabel Classification",
+      "pdf_page": 134,
+      "line_id": "p0134-l0007",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 83,
+      "level": 3,
+      "title": "Multioutput Classification",
+      "pdf_page": 135,
+      "line_id": "p0135-l0009",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 84,
+      "level": 3,
+      "title": "Exercises",
+      "pdf_page": 136,
+      "line_id": "p0136-l0012",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 85,
+      "level": 2,
+      "title": "Chapter 4. Training Models",
+      "pdf_page": 139,
+      "line_id": "p0139-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 86,
+      "level": 3,
+      "title": "Linear Regression",
+      "pdf_page": 140,
+      "line_id": "p0140-l0024",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 87,
+      "level": 4,
+      "title": "The Normal Equation",
+      "pdf_page": 142,
+      "line_id": "p0142-l0015",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 88,
+      "level": 4,
+      "title": "Computational Complexity",
+      "pdf_page": 145,
+      "line_id": "p0145-l0011",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 89,
+      "level": 3,
+      "title": "Gradient Descent",
+      "pdf_page": 145,
+      "line_id": "p0145-l0032",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 90,
+      "level": 4,
+      "title": "Batch Gradient Descent",
+      "pdf_page": 149,
+      "line_id": "p0149-l0016",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 91,
+      "level": 4,
+      "title": "Stochastic Gradient Descent",
+      "pdf_page": 152,
+      "line_id": "p0152-l0008",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 92,
+      "level": 4,
+      "title": "Mini-batch Gradient Descent",
+      "pdf_page": 155,
+      "line_id": "p0155-l0005",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 93,
+      "level": 3,
+      "title": "Polynomial Regression",
+      "pdf_page": 156,
+      "line_id": "p0156-l0049",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 94,
+      "level": 3,
+      "title": "Learning Curves",
+      "pdf_page": 158,
+      "line_id": "p0158-l0017",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 95,
+      "level": 3,
+      "title": "Regularized Linear Models",
+      "pdf_page": 162,
+      "line_id": "p0162-l0023",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 96,
+      "level": 4,
+      "title": "Ridge Regression",
+      "pdf_page": 163,
+      "line_id": "p0163-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 97,
+      "level": 4,
+      "title": "Lasso Regression",
+      "pdf_page": 165,
+      "line_id": "p0165-l0012",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 98,
+      "level": 4,
+      "title": "Elastic Net",
+      "pdf_page": 168,
+      "line_id": "p0168-l0008",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 99,
+      "level": 4,
+      "title": "Early Stopping",
+      "pdf_page": 168,
+      "line_id": "p0168-l0036",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 100,
+      "level": 3,
+      "title": "Logistic Regression",
+      "pdf_page": 170,
+      "line_id": "p0170-l0014",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 101,
+      "level": 4,
+      "title": "Estimating Probabilities",
+      "pdf_page": 170,
+      "line_id": "p0170-l0022",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 102,
+      "level": 4,
+      "title": "Training and Cost Function",
+      "pdf_page": 171,
+      "line_id": "p0171-l0017",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 103,
+      "level": 4,
+      "title": "Decision Boundaries",
+      "pdf_page": 172,
+      "line_id": "p0172-l0039",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 104,
+      "level": 4,
+      "title": "Softmax Regression",
+      "pdf_page": 175,
+      "line_id": "p0175-l0008",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 105,
+      "level": 3,
+      "title": "Exercises",
+      "pdf_page": 179,
+      "line_id": "p0179-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 106,
+      "level": 2,
+      "title": "Chapter 5. Support Vector Machines",
+      "pdf_page": 181,
+      "line_id": "p0181-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 107,
+      "level": 3,
+      "title": "Linear SVM Classification",
+      "pdf_page": 181,
+      "line_id": "p0181-l0015",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 108,
+      "level": 4,
+      "title": "Soft Margin Classification",
+      "pdf_page": 182,
+      "line_id": "p0182-l0014",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 109,
+      "level": 3,
+      "title": "Nonlinear SVM Classification",
+      "pdf_page": 185,
+      "line_id": "p0185-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 110,
+      "level": 4,
+      "title": "Polynomial Kernel",
+      "pdf_page": 186,
+      "line_id": "p0186-l0002",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 111,
+      "level": 4,
+      "title": "Adding Similarity Features",
+      "pdf_page": 187,
+      "line_id": "p0187-l0011",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 112,
+      "level": 4,
+      "title": "Gaussian RBF Kernel",
+      "pdf_page": 188,
+      "line_id": "p0188-l0009",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 113,
+      "level": 4,
+      "title": "Computational Complexity",
+      "pdf_page": 189,
+      "line_id": "p0189-l0016",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 114,
+      "level": 3,
+      "title": "SVM Regression",
+      "pdf_page": 190,
+      "line_id": "p0190-l0034",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 115,
+      "level": 3,
+      "title": "Under the Hood",
+      "pdf_page": 192,
+      "line_id": "p0192-l0012",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 116,
+      "level": 4,
+      "title": "Decision Function and Predictions",
+      "pdf_page": 192,
+      "line_id": "p0192-l0023",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 117,
+      "level": 4,
+      "title": "Training Objective",
+      "pdf_page": 193,
+      "line_id": "p0193-l0012",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 118,
+      "level": 4,
+      "title": "Quadratic Programming",
+      "pdf_page": 195,
+      "line_id": "p0195-l0016",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 119,
+      "level": 4,
+      "title": "The Dual Problem",
+      "pdf_page": 196,
+      "line_id": "p0196-l0014",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 120,
+      "level": 4,
+      "title": "Kernelized SVM",
+      "pdf_page": 197,
+      "line_id": "p0197-l0017",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 121,
+      "level": 4,
+      "title": "Online SVMs",
+      "pdf_page": 200,
+      "line_id": "p0200-l0032",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 122,
+      "level": 3,
+      "title": "Exercises",
+      "pdf_page": 201,
+      "line_id": "p0201-l0006",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 123,
+      "level": 2,
+      "title": "Chapter 6. Decision Trees",
+      "pdf_page": 203,
+      "line_id": "p0203-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 124,
+      "level": 3,
+      "title": "Training and Visualizing a Decision Tree",
+      "pdf_page": 203,
+      "line_id": "p0203-l0020",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 125,
+      "level": 3,
+      "title": "Making Predictions",
+      "pdf_page": 205,
+      "line_id": "p0205-l0002",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 126,
+      "level": 3,
+      "title": "Estimating Class Probabilities",
+      "pdf_page": 207,
+      "line_id": "p0207-l0014",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 127,
+      "level": 3,
+      "title": "The CART Training Algorithm",
+      "pdf_page": 208,
+      "line_id": "p0208-l0007",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 128,
+      "level": 3,
+      "title": "Computational Complexity",
+      "pdf_page": 209,
+      "line_id": "p0209-l0011",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 129,
+      "level": 3,
+      "title": "Gini Impurity or Entropy?",
+      "pdf_page": 209,
+      "line_id": "p0209-l0023",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 130,
+      "level": 3,
+      "title": "Regularization Hyperparameters",
+      "pdf_page": 210,
+      "line_id": "p0210-l0022",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 131,
+      "level": 3,
+      "title": "Regression",
+      "pdf_page": 211,
+      "line_id": "p0211-l0022",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 132,
+      "level": 3,
+      "title": "Instability",
+      "pdf_page": 214,
+      "line_id": "p0214-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 133,
+      "level": 3,
+      "title": "Exercises",
+      "pdf_page": 215,
+      "line_id": "p0215-l0004",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 134,
+      "level": 2,
+      "title": "Chapter 7. Ensemble Learning and Random Forests",
+      "pdf_page": 217,
+      "line_id": "p0217-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 135,
+      "level": 3,
+      "title": "Voting Classifiers",
+      "pdf_page": 218,
+      "line_id": "p0218-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 136,
+      "level": 3,
+      "title": "Bagging and Pasting",
+      "pdf_page": 221,
+      "line_id": "p0221-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 137,
+      "level": 4,
+      "title": "Bagging and Pasting in Scikit-Learn",
+      "pdf_page": 222,
+      "line_id": "p0222-l0009",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 138,
+      "level": 4,
+      "title": "Out-of-Bag Evaluation",
+      "pdf_page": 223,
+      "line_id": "p0223-l0008",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 139,
+      "level": 3,
+      "title": "Random Patches and Random Subspaces",
+      "pdf_page": 224,
+      "line_id": "p0224-l0024",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 140,
+      "level": 3,
+      "title": "Random Forests",
+      "pdf_page": 225,
+      "line_id": "p0225-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 141,
+      "level": 4,
+      "title": "Extra-Trees",
+      "pdf_page": 226,
+      "line_id": "p0226-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 142,
+      "level": 4,
+      "title": "Feature Importance",
+      "pdf_page": 226,
+      "line_id": "p0226-l0019",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 143,
+      "level": 3,
+      "title": "Boosting",
+      "pdf_page": 227,
+      "line_id": "p0227-l0018",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 144,
+      "level": 4,
+      "title": "AdaBoost",
+      "pdf_page": 228,
+      "line_id": "p0228-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 145,
+      "level": 4,
+      "title": "Gradient Boosting",
+      "pdf_page": 231,
+      "line_id": "p0231-l0021",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 146,
+      "level": 3,
+      "title": "Stacking",
+      "pdf_page": 236,
+      "line_id": "p0236-l0020",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 147,
+      "level": 3,
+      "title": "Exercises",
+      "pdf_page": 239,
+      "line_id": "p0239-l0006",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 148,
+      "level": 2,
+      "title": "Chapter 8. Dimensionality Reduction",
+      "pdf_page": 241,
+      "line_id": "p0241-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 149,
+      "level": 3,
+      "title": "The Curse of Dimensionality",
+      "pdf_page": 242,
+      "line_id": "p0242-l0023",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 150,
+      "level": 3,
+      "title": "Main Approaches for Dimensionality Reduction",
+      "pdf_page": 244,
+      "line_id": "p0244-l0004",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 151,
+      "level": 4,
+      "title": "Projection",
+      "pdf_page": 244,
+      "line_id": "p0244-l0008",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 152,
+      "level": 4,
+      "title": "Manifold Learning",
+      "pdf_page": 246,
+      "line_id": "p0246-l0006",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 153,
+      "level": 3,
+      "title": "PCA",
+      "pdf_page": 248,
+      "line_id": "p0248-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 154,
+      "level": 4,
+      "title": "Preserving the Variance",
+      "pdf_page": 248,
+      "line_id": "p0248-l0005",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 155,
+      "level": 4,
+      "title": "Principal Components",
+      "pdf_page": 249,
+      "line_id": "p0249-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 156,
+      "level": 4,
+      "title": "Projecting Down to d Dimensions",
+      "pdf_page": 250,
+      "line_id": "p0250-l0006",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 157,
+      "level": 4,
+      "title": "Using Scikit-Learn",
+      "pdf_page": 250,
+      "line_id": "p0250-l0026",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 158,
+      "level": 4,
+      "title": "Explained Variance Ratio",
+      "pdf_page": 251,
+      "line_id": "p0251-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 159,
+      "level": 4,
+      "title": "Choosing the Right Number of Dimensions",
+      "pdf_page": 251,
+      "line_id": "p0251-l0014",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 160,
+      "level": 4,
+      "title": "PCA for Compression",
+      "pdf_page": 252,
+      "line_id": "p0252-l0004",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 161,
+      "level": 4,
+      "title": "Randomized PCA",
+      "pdf_page": 253,
+      "line_id": "p0253-l0007",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 162,
+      "level": 4,
+      "title": "Incremental PCA",
+      "pdf_page": 253,
+      "line_id": "p0253-l0019",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 163,
+      "level": 3,
+      "title": "Kernel PCA",
+      "pdf_page": 254,
+      "line_id": "p0254-l0024",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 164,
+      "level": 4,
+      "title": "Selecting a Kernel and Tuning Hyperparameters",
+      "pdf_page": 255,
+      "line_id": "p0255-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 165,
+      "level": 3,
+      "title": "LLE",
+      "pdf_page": 258,
+      "line_id": "p0258-l0007",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 166,
+      "level": 3,
+      "title": "Other Dimensionality Reduction Techniques",
+      "pdf_page": 260,
+      "line_id": "p0260-l0046",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 167,
+      "level": 3,
+      "title": "Exercises",
+      "pdf_page": 261,
+      "line_id": "p0261-l0015",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 168,
+      "level": 2,
+      "title": "Chapter 9. Unsupervised Learning Techniques",
+      "pdf_page": 263,
+      "line_id": "p0263-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 169,
+      "level": 3,
+      "title": "Clustering",
+      "pdf_page": 264,
+      "line_id": "p0264-l0020",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 170,
+      "level": 4,
+      "title": "K-Means",
+      "pdf_page": 266,
+      "line_id": "p0266-l0021",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 171,
+      "level": 4,
+      "title": "Limits of K-Means",
+      "pdf_page": 276,
+      "line_id": "p0276-l0007",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 172,
+      "level": 4,
+      "title": "Using clustering for image segmentation",
+      "pdf_page": 277,
+      "line_id": "p0277-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 173,
+      "level": 4,
+      "title": "Using Clustering for Preprocessing",
+      "pdf_page": 278,
+      "line_id": "p0278-l0008",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 174,
+      "level": 4,
+      "title": "Using Clustering for Semi-Supervised Learning",
+      "pdf_page": 280,
+      "line_id": "p0280-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 175,
+      "level": 4,
+      "title": "DBSCAN",
+      "pdf_page": 282,
+      "line_id": "p0282-l0022",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 176,
+      "level": 4,
+      "title": "Other Clustering Algorithms",
+      "pdf_page": 285,
+      "line_id": "p0285-l0009",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 177,
+      "level": 3,
+      "title": "Gaussian Mixtures",
+      "pdf_page": 286,
+      "line_id": "p0286-l0032",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 178,
+      "level": 4,
+      "title": "Anomaly Detection using Gaussian Mixtures",
+      "pdf_page": 292,
+      "line_id": "p0292-l0010",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 179,
+      "level": 4,
+      "title": "Selecting the Number of Clusters",
+      "pdf_page": 293,
+      "line_id": "p0293-l0021",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 180,
+      "level": 4,
+      "title": "Bayesian Gaussian Mixture Models",
+      "pdf_page": 296,
+      "line_id": "p0296-l0011",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 181,
+      "level": 4,
+      "title": "Other Anomaly Detection and Novelty Detection Algorithms",
+      "pdf_page": 300,
+      "line_id": "p0300-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 182,
+      "level": 1,
+      "title": "Part II. Neural Networks and Deep Learning",
+      "pdf_page": 301,
+      "line_id": "p0301-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 183,
+      "level": 2,
+      "title": "Chapter 10. Introduction to Artificial Neural Networks with Keras",
+      "pdf_page": 303,
+      "line_id": "p0303-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 184,
+      "level": 3,
+      "title": "From Biological to Artificial Neurons",
+      "pdf_page": 304,
+      "line_id": "p0304-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 185,
+      "level": 4,
+      "title": "Biological Neurons",
+      "pdf_page": 305,
+      "line_id": "p0305-l0020",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 186,
+      "level": 4,
+      "title": "Logical Computations with Neurons",
+      "pdf_page": 307,
+      "line_id": "p0307-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 187,
+      "level": 4,
+      "title": "The Perceptron",
+      "pdf_page": 307,
+      "line_id": "p0307-l0026",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 188,
+      "level": 4,
+      "title": "Multi-Layer Perceptron and Backpropagation",
+      "pdf_page": 312,
+      "line_id": "p0312-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 189,
+      "level": 4,
+      "title": "Regression MLPs",
+      "pdf_page": 315,
+      "line_id": "p0315-l0015",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 190,
+      "level": 4,
+      "title": "Classification MLPs",
+      "pdf_page": 316,
+      "line_id": "p0316-l0036",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 191,
+      "level": 3,
+      "title": "Implementing MLPs with Keras",
+      "pdf_page": 318,
+      "line_id": "p0318-l0015",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 192,
+      "level": 4,
+      "title": "Installing TensorFlow 2",
+      "pdf_page": 319,
+      "line_id": "p0319-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 193,
+      "level": 4,
+      "title": "Building an Image Classifier Using the Sequential API",
+      "pdf_page": 320,
+      "line_id": "p0320-l0005",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 194,
+      "level": 4,
+      "title": "Building a Regression MLP Using the Sequential API",
+      "pdf_page": 329,
+      "line_id": "p0329-l0006",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 195,
+      "level": 4,
+      "title": "Building Complex Models Using the Functional API",
+      "pdf_page": 330,
+      "line_id": "p0330-l0005",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 196,
+      "level": 4,
+      "title": "Building Dynamic Models Using the Subclassing API",
+      "pdf_page": 335,
+      "line_id": "p0335-l0029",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 197,
+      "level": 4,
+      "title": "Saving and Restoring a Model",
+      "pdf_page": 337,
+      "line_id": "p0337-l0005",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 198,
+      "level": 4,
+      "title": "Using Callbacks",
+      "pdf_page": 337,
+      "line_id": "p0337-l0025",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 199,
+      "level": 4,
+      "title": "Visualization Using TensorBoard",
+      "pdf_page": 339,
+      "line_id": "p0339-l0017",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 200,
+      "level": 3,
+      "title": "Fine-Tuning Neural Network Hyperparameters",
+      "pdf_page": 341,
+      "line_id": "p0341-l0015",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 201,
+      "level": 4,
+      "title": "Number of Hidden Layers",
+      "pdf_page": 345,
+      "line_id": "p0345-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 202,
+      "level": 4,
+      "title": "Number of Neurons per Hidden Layer",
+      "pdf_page": 346,
+      "line_id": "p0346-l0004",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 203,
+      "level": 4,
+      "title": "Learning Rate, Batch Size and Other Hyperparameters",
+      "pdf_page": 346,
+      "line_id": "p0346-l0029",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 204,
+      "level": 3,
+      "title": "Exercises",
+      "pdf_page": 348,
+      "line_id": "p0348-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 205,
+      "level": 2,
+      "title": "Chapter 11. Training Deep Neural Networks",
+      "pdf_page": 351,
+      "line_id": "p0351-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 206,
+      "level": 3,
+      "title": "Vanishing/Exploding Gradients Problems",
+      "pdf_page": 352,
+      "line_id": "p0352-l0006",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 207,
+      "level": 4,
+      "title": "Glorot and He Initialization",
+      "pdf_page": 353,
+      "line_id": "p0353-l0008",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 208,
+      "level": 4,
+      "title": "Nonsaturating Activation Functions",
+      "pdf_page": 355,
+      "line_id": "p0355-l0007",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 209,
+      "level": 4,
+      "title": "Batch Normalization",
+      "pdf_page": 359,
+      "line_id": "p0359-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 210,
+      "level": 4,
+      "title": "Gradient Clipping",
+      "pdf_page": 364,
+      "line_id": "p0364-l0031",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 211,
+      "level": 3,
+      "title": "Reusing Pretrained Layers",
+      "pdf_page": 365,
+      "line_id": "p0365-l0023",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 212,
+      "level": 4,
+      "title": "Transfer Learning With Keras",
+      "pdf_page": 367,
+      "line_id": "p0367-l0008",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 213,
+      "level": 4,
+      "title": "Unsupervised Pretraining",
+      "pdf_page": 369,
+      "line_id": "p0369-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 214,
+      "level": 4,
+      "title": "Pretraining on an Auxiliary Task",
+      "pdf_page": 370,
+      "line_id": "p0370-l0005",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 215,
+      "level": 3,
+      "title": "Faster Optimizers",
+      "pdf_page": 370,
+      "line_id": "p0370-l0031",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 216,
+      "level": 4,
+      "title": "Momentum Optimization",
+      "pdf_page": 371,
+      "line_id": "p0371-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 217,
+      "level": 4,
+      "title": "Nesterov Accelerated Gradient",
+      "pdf_page": 372,
+      "line_id": "p0372-l0017",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 218,
+      "level": 4,
+      "title": "AdaGrad",
+      "pdf_page": 373,
+      "line_id": "p0373-l0011",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 219,
+      "level": 4,
+      "title": "RMSProp",
+      "pdf_page": 375,
+      "line_id": "p0375-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 220,
+      "level": 4,
+      "title": "Adam and Nadam Optimization",
+      "pdf_page": 375,
+      "line_id": "p0375-l0022",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 221,
+      "level": 4,
+      "title": "Learning Rate Scheduling",
+      "pdf_page": 378,
+      "line_id": "p0378-l0019",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 222,
+      "level": 3,
+      "title": "Avoiding Overfitting Through Regularization",
+      "pdf_page": 382,
+      "line_id": "p0382-l0012",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 223,
+      "level": 4,
+      "title": "ℓ1 and ℓ2 Regularization",
+      "pdf_page": 382,
+      "line_id": "p0382-l0026",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 224,
+      "level": 4,
+      "title": "Dropout",
+      "pdf_page": 383,
+      "line_id": "p0383-l0021",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 225,
+      "level": 4,
+      "title": "Monte-Carlo (MC) Dropout",
+      "pdf_page": 386,
+      "line_id": "p0386-l0006",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 226,
+      "level": 4,
+      "title": "Max-Norm Regularization",
+      "pdf_page": 388,
+      "line_id": "p0388-l0025",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 227,
+      "level": 3,
+      "title": "Summary and Practical Guidelines",
+      "pdf_page": 389,
+      "line_id": "p0389-l0018",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 228,
+      "level": 3,
+      "title": "Exercises",
+      "pdf_page": 390,
+      "line_id": "p0390-l0031",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 229,
+      "level": 2,
+      "title": "Chapter 12. Custom Models and Training with TensorFlow",
+      "pdf_page": 393,
+      "line_id": "p0393-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 230,
+      "level": 3,
+      "title": "A Quick Tour of TensorFlow",
+      "pdf_page": 394,
+      "line_id": "p0394-l0004",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 231,
+      "level": 3,
+      "title": "Using TensorFlow like NumPy",
+      "pdf_page": 397,
+      "line_id": "p0397-l0007",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 232,
+      "level": 4,
+      "title": "Tensors and Operations",
+      "pdf_page": 397,
+      "line_id": "p0397-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 233,
+      "level": 4,
+      "title": "Tensors and NumPy",
+      "pdf_page": 399,
+      "line_id": "p0399-l0020",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 234,
+      "level": 4,
+      "title": "Type Conversions",
+      "pdf_page": 400,
+      "line_id": "p0400-l0006",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 235,
+      "level": 4,
+      "title": "Variables",
+      "pdf_page": 400,
+      "line_id": "p0400-l0021",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 236,
+      "level": 4,
+      "title": "Other Data Structures",
+      "pdf_page": 401,
+      "line_id": "p0401-l0009",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 237,
+      "level": 3,
+      "title": "Customizing Models and Training Algorithms",
+      "pdf_page": 402,
+      "line_id": "p0402-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 238,
+      "level": 4,
+      "title": "Custom Loss Functions",
+      "pdf_page": 402,
+      "line_id": "p0402-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 239,
+      "level": 4,
+      "title": "Saving and Loading Models That Contain Custom Components",
+      "pdf_page": 403,
+      "line_id": "p0403-l0002",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 240,
+      "level": 4,
+      "title": "Custom Activation Functions, Initializers, Regularizers, and Constraints",
+      "pdf_page": 405,
+      "line_id": "p0405-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 241,
+      "level": 4,
+      "title": "Custom Metrics",
+      "pdf_page": 406,
+      "line_id": "p0406-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 242,
+      "level": 4,
+      "title": "Custom Layers",
+      "pdf_page": 409,
+      "line_id": "p0409-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 243,
+      "level": 4,
+      "title": "Custom Models",
+      "pdf_page": 412,
+      "line_id": "p0412-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 244,
+      "level": 4,
+      "title": "Losses and Metrics Based on Model Internals",
+      "pdf_page": 414,
+      "line_id": "p0414-l0014",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 245,
+      "level": 4,
+      "title": "Computing Gradients Using Autodiff",
+      "pdf_page": 415,
+      "line_id": "p0415-l0033",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 246,
+      "level": 4,
+      "title": "Custom Training Loops",
+      "pdf_page": 419,
+      "line_id": "p0419-l0035",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 247,
+      "level": 3,
+      "title": "TensorFlow Functions and Graphs",
+      "pdf_page": 422,
+      "line_id": "p0422-l0028",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 248,
+      "level": 4,
+      "title": "Autograph and Tracing",
+      "pdf_page": 424,
+      "line_id": "p0424-l0027",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 249,
+      "level": 4,
+      "title": "TF Function Rules",
+      "pdf_page": 426,
+      "line_id": "p0426-l0004",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 250,
+      "level": 2,
+      "title": "Chapter 13. Loading and Preprocessing Data with TensorFlow",
+      "pdf_page": 429,
+      "line_id": "p0429-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 251,
+      "level": 3,
+      "title": "The Data API",
+      "pdf_page": 430,
+      "line_id": "p0430-l0018",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 252,
+      "level": 4,
+      "title": "Chaining Transformations",
+      "pdf_page": 431,
+      "line_id": "p0431-l0007",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 253,
+      "level": 4,
+      "title": "Shuffling the Data",
+      "pdf_page": 432,
+      "line_id": "p0432-l0028",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 254,
+      "level": 4,
+      "title": "Preprocessing the Data",
+      "pdf_page": 435,
+      "line_id": "p0435-l0018",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 255,
+      "level": 4,
+      "title": "Putting Everything Together",
+      "pdf_page": 436,
+      "line_id": "p0436-l0018",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 256,
+      "level": 4,
+      "title": "Prefetching",
+      "pdf_page": 437,
+      "line_id": "p0437-l0004",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 257,
+      "level": 4,
+      "title": "Using the Dataset With tf.keras",
+      "pdf_page": 439,
+      "line_id": "p0439-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 258,
+      "level": 3,
+      "title": "The TFRecord Format",
+      "pdf_page": 440,
+      "line_id": "p0440-l0014",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 259,
+      "level": 4,
+      "title": "Compressed TFRecord Files",
+      "pdf_page": 441,
+      "line_id": "p0441-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 260,
+      "level": 4,
+      "title": "A Brief Introduction to Protocol Buffers",
+      "pdf_page": 441,
+      "line_id": "p0441-l0011",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 261,
+      "level": 4,
+      "title": "TensorFlow Protobufs",
+      "pdf_page": 442,
+      "line_id": "p0442-l0031",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 262,
+      "level": 4,
+      "title": "Loading and Parsing Examples",
+      "pdf_page": 444,
+      "line_id": "p0444-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 263,
+      "level": 4,
+      "title": "Handling Lists of Lists Using the SequenceExample Protobuf",
+      "pdf_page": 445,
+      "line_id": "p0445-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 264,
+      "level": 3,
+      "title": "The Features API",
+      "pdf_page": 446,
+      "line_id": "p0446-l0004",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 265,
+      "level": 4,
+      "title": "Categorical Features",
+      "pdf_page": 447,
+      "line_id": "p0447-l0005",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 266,
+      "level": 4,
+      "title": "Crossed Categorical Features",
+      "pdf_page": 447,
+      "line_id": "p0447-l0031",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 267,
+      "level": 4,
+      "title": "Encoding Categorical Features Using One-Hot Vectors",
+      "pdf_page": 448,
+      "line_id": "p0448-l0023",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 268,
+      "level": 4,
+      "title": "Encoding Categorical Features Using Embeddings",
+      "pdf_page": 449,
+      "line_id": "p0449-l0009",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 269,
+      "level": 4,
+      "title": "Using Feature Columns for Parsing",
+      "pdf_page": 452,
+      "line_id": "p0452-l0007",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 270,
+      "level": 4,
+      "title": "Using Feature Columns in Your Models",
+      "pdf_page": 452,
+      "line_id": "p0452-l0030",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 271,
+      "level": 3,
+      "title": "TF Transform",
+      "pdf_page": 454,
+      "line_id": "p0454-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 272,
+      "level": 3,
+      "title": "The TensorFlow Datasets (TFDS) Project",
+      "pdf_page": 455,
+      "line_id": "p0455-l0023",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 273,
+      "level": 2,
+      "title": "Chapter 14. Deep Computer Vision Using Convolutional Neural Networks",
+      "pdf_page": 457,
+      "line_id": "p0457-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 274,
+      "level": 3,
+      "title": "The Architecture of the Visual Cortex",
+      "pdf_page": 458,
+      "line_id": "p0458-l0009",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 275,
+      "level": 3,
+      "title": "Convolutional Layer",
+      "pdf_page": 460,
+      "line_id": "p0460-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 276,
+      "level": 4,
+      "title": "Filters",
+      "pdf_page": 462,
+      "line_id": "p0462-l0002",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 277,
+      "level": 4,
+      "title": "Stacking Multiple Feature Maps",
+      "pdf_page": 463,
+      "line_id": "p0463-l0002",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 278,
+      "level": 4,
+      "title": "TensorFlow Implementation",
+      "pdf_page": 465,
+      "line_id": "p0465-l0029",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 279,
+      "level": 4,
+      "title": "Memory Requirements",
+      "pdf_page": 467,
+      "line_id": "p0467-l0016",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 280,
+      "level": 3,
+      "title": "Pooling Layer",
+      "pdf_page": 468,
+      "line_id": "p0468-l0023",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 281,
+      "level": 4,
+      "title": "TensorFlow Implementation",
+      "pdf_page": 470,
+      "line_id": "p0470-l0011",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 282,
+      "level": 3,
+      "title": "CNN Architectures",
+      "pdf_page": 472,
+      "line_id": "p0472-l0032",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 283,
+      "level": 4,
+      "title": "LeNet-5",
+      "pdf_page": 475,
+      "line_id": "p0475-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 284,
+      "level": 4,
+      "title": "AlexNet",
+      "pdf_page": 476,
+      "line_id": "p0476-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 285,
+      "level": 4,
+      "title": "GoogLeNet",
+      "pdf_page": 478,
+      "line_id": "p0478-l0031",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 286,
+      "level": 4,
+      "title": "VGGNet",
+      "pdf_page": 482,
+      "line_id": "p0482-l0028",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 287,
+      "level": 4,
+      "title": "ResNet",
+      "pdf_page": 483,
+      "line_id": "p0483-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 288,
+      "level": 4,
+      "title": "Xception",
+      "pdf_page": 485,
+      "line_id": "p0485-l0020",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 289,
+      "level": 4,
+      "title": "SENet",
+      "pdf_page": 487,
+      "line_id": "p0487-l0022",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 290,
+      "level": 3,
+      "title": "Implementing a ResNet-34 CNN Using Keras",
+      "pdf_page": 490,
+      "line_id": "p0490-l0015",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 291,
+      "level": 3,
+      "title": "Using Pretrained Models From Keras",
+      "pdf_page": 491,
+      "line_id": "p0491-l0036",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 292,
+      "level": 3,
+      "title": "Pretrained Models for Transfer Learning",
+      "pdf_page": 493,
+      "line_id": "p0493-l0015",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 293,
+      "level": 3,
+      "title": "Classification and Localization",
+      "pdf_page": 495,
+      "line_id": "p0495-l0028",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 294,
+      "level": 3,
+      "title": "Object Detection",
+      "pdf_page": 497,
+      "line_id": "p0497-l0006",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 295,
+      "level": 4,
+      "title": "Fully Convolutional Networks (FCNs)",
+      "pdf_page": 499,
+      "line_id": "p0499-l0005",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 296,
+      "level": 4,
+      "title": "You Only Look Once (YOLO)",
+      "pdf_page": 501,
+      "line_id": "p0501-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 297,
+      "level": 3,
+      "title": "Semantic Segmentation",
+      "pdf_page": 504,
+      "line_id": "p0504-l0016",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 298,
+      "level": 3,
+      "title": "Exercises",
+      "pdf_page": 508,
+      "line_id": "p0508-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 299,
+      "level": 1,
+      "title": "About the Author",
+      "pdf_page": 510,
+      "line_id": "p0510-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 300,
+      "level": 1,
+      "title": "Colophon",
+      "pdf_page": 510,
+      "line_id": "p0510-l0014",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    }
+  ],
+  "warnings": [],
+  "review_instructions": [
+    "Review boundaries.json in VS Code alongside lines.txt and the PDF.",
+    "An accepted boundary must have a valid line_id and its matching pdf_page.",
+    "For a non-heading bookmark, use status skip and explain why in note.",
+    "Keep boundaries in document order; same-line entries must form a parent-child chain.",
+    "Set reviewed to true only after reviewing. This is a human review gate.",
+    "Skipping a boundary never deletes its source text."
+  ]
+}

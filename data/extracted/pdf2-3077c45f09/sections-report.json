@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "document_id": "3077c45f0942c09e4148ca41aa552fed5ab14da21ab02d240b20cf7e7f01a9e4",
+  "source_file": "pdf2.pdf",
+  "mode": "bookmarks",
+  "sections": 182,
+  "accepted_boundaries": 181,
+  "skipped_boundaries": 0,
+  "same_line_parent_child_groups": 0,
+  "input_lines": 9023,
+  "assigned_lines": 9023,
+  "unique_assigned_lines": 9023,
+  "input_line_characters": 525772,
+  "assigned_line_characters": 525772,
+  "missing_line_ids": [],
+  "duplicate_line_ids": [],
+  "all_lines_assigned_once": true,
+  "note": "Line characters are preserved exactly; section text joins source lines with newlines."
+}

@@ -1,0 +1,1829 @@
+{
+  "schema_version": 1,
+  "document_id": "3077c45f0942c09e4148ca41aa552fed5ab14da21ab02d240b20cf7e7f01a9e4",
+  "source_file": "pdf2.pdf",
+  "reviewed": true,
+  "mode": "bookmarks",
+  "body_font_size": 14.4,
+  "boundaries": [
+    {
+      "outline_index": 1,
+      "level": 1,
+      "title": "Preface",
+      "pdf_page": 9,
+      "line_id": "p0009-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 2,
+      "level": 2,
+      "title": "Why I Wrote This Book",
+      "pdf_page": 10,
+      "line_id": "p0010-l0027",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: heading is at the bottom of the page before the bookmark target."
+    },
+    {
+      "outline_index": 3,
+      "level": 2,
+      "title": "Who Should Read This Book",
+      "pdf_page": 11,
+      "line_id": "p0011-l0023",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 4,
+      "level": 2,
+      "title": "How to Read This Book",
+      "pdf_page": 12,
+      "line_id": "p0012-l0015",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 5,
+      "level": 2,
+      "title": "Images and Color",
+      "pdf_page": 13,
+      "line_id": "p0013-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 6,
+      "level": 2,
+      "title": "Software Tools",
+      "pdf_page": 13,
+      "line_id": "p0013-l0006",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 7,
+      "level": 2,
+      "title": "Polyglot Media",
+      "pdf_page": 13,
+      "line_id": "p0013-l0019",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 8,
+      "level": 2,
+      "title": "Conventions Used in This Book",
+      "pdf_page": 14,
+      "line_id": "p0014-l0006",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 9,
+      "level": 2,
+      "title": "Using Code Examples",
+      "pdf_page": 15,
+      "line_id": "p0015-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 10,
+      "level": 2,
+      "title": "O’Reilly Online Learning",
+      "pdf_page": 15,
+      "line_id": "p0015-l0021",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 11,
+      "level": 2,
+      "title": "How to Contact Us",
+      "pdf_page": 16,
+      "line_id": "p0016-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 12,
+      "level": 2,
+      "title": "Acknowledgments",
+      "pdf_page": 16,
+      "line_id": "p0016-l0020",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: heading is at the bottom of the page before the bookmark target."
+    },
+    {
+      "outline_index": 13,
+      "level": 1,
+      "title": "I. Visual Communication",
+      "pdf_page": 19,
+      "line_id": "p0019-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: typeset title carries a 'Part'/'Chapter' prefix missing from the bookmark."
+    },
+    {
+      "outline_index": 14,
+      "level": 1,
+      "title": "1. Communication Essentials",
+      "pdf_page": 20,
+      "line_id": "p0020-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: typeset title carries a 'Part'/'Chapter' prefix missing from the bookmark."
+    },
+    {
+      "outline_index": 15,
+      "level": 2,
+      "title": "Know Your Audience",
+      "pdf_page": 20,
+      "line_id": "p0020-l0017",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 16,
+      "level": 2,
+      "title": "Mixing Levels of Abstraction",
+      "pdf_page": 25,
+      "line_id": "p0025-l0018",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 17,
+      "level": 2,
+      "title": "Representational Consistency",
+      "pdf_page": 30,
+      "line_id": "p0030-l0002",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 18,
+      "level": 2,
+      "title": "Summary",
+      "pdf_page": 35,
+      "line_id": "p0035-l0006",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 19,
+      "level": 1,
+      "title": "2. Clarify the Clutter",
+      "pdf_page": 36,
+      "line_id": "p0036-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: typeset title carries a 'Part'/'Chapter' prefix missing from the bookmark."
+    },
+    {
+      "outline_index": 20,
+      "level": 2,
+      "title": "Color Overload",
+      "pdf_page": 36,
+      "line_id": "p0036-l0007",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 21,
+      "level": 2,
+      "title": "Boxes in Boxes in Boxes",
+      "pdf_page": 38,
+      "line_id": "p0038-l0008",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 22,
+      "level": 2,
+      "title": "Relationship Spiderweb",
+      "pdf_page": 41,
+      "line_id": "p0041-l0005",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 23,
+      "level": 2,
+      "title": "Balance Text",
+      "pdf_page": 45,
+      "line_id": "p0045-l0002",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 24,
+      "level": 2,
+      "title": "Summary",
+      "pdf_page": 49,
+      "line_id": "p0049-l0009",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 25,
+      "level": 1,
+      "title": "3. Accessibility",
+      "pdf_page": 50,
+      "line_id": "p0050-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: typeset title carries a 'Part'/'Chapter' prefix missing from the bookmark."
+    },
+    {
+      "outline_index": 26,
+      "level": 2,
+      "title": "Relying on Color to Communicate",
+      "pdf_page": 50,
+      "line_id": "p0050-l0020",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 27,
+      "level": 2,
+      "title": "Include a Legend",
+      "pdf_page": 56,
+      "line_id": "p0056-l0020",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 28,
+      "level": 2,
+      "title": "Appropriate Labels",
+      "pdf_page": 59,
+      "line_id": "p0059-l0002",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 29,
+      "level": 2,
+      "title": "Summary",
+      "pdf_page": 62,
+      "line_id": "p0062-l0004",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 30,
+      "level": 1,
+      "title": "4. Narrative",
+      "pdf_page": 63,
+      "line_id": "p0063-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: typeset title carries a 'Part'/'Chapter' prefix missing from the bookmark."
+    },
+    {
+      "outline_index": 31,
+      "level": 2,
+      "title": "The Big Picture Comes First",
+      "pdf_page": 63,
+      "line_id": "p0063-l0011",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 32,
+      "level": 2,
+      "title": "Match Diagram Flow to Expectations",
+      "pdf_page": 66,
+      "line_id": "p0066-l0004",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 33,
+      "level": 2,
+      "title": "Clear Relationships",
+      "pdf_page": 71,
+      "line_id": "p0071-l0008",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 34,
+      "level": 2,
+      "title": "Summary",
+      "pdf_page": 74,
+      "line_id": "p0074-l0015",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 35,
+      "level": 1,
+      "title": "5. Notation",
+      "pdf_page": 76,
+      "line_id": "p0076-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: typeset title carries a 'Part'/'Chapter' prefix missing from the bookmark."
+    },
+    {
+      "outline_index": 36,
+      "level": 2,
+      "title": "Using Icons to Convey Meaning",
+      "pdf_page": 76,
+      "line_id": "p0076-l0010",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 37,
+      "level": 2,
+      "title": "Using UML for UML’s Sake",
+      "pdf_page": 78,
+      "line_id": "p0078-l0006",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 38,
+      "level": 2,
+      "title": "Mixing Behavior and Structure",
+      "pdf_page": 83,
+      "line_id": "p0083-l0004",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 39,
+      "level": 2,
+      "title": "Going Against Expectations",
+      "pdf_page": 86,
+      "line_id": "p0086-l0004",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 40,
+      "level": 2,
+      "title": "Summary",
+      "pdf_page": 88,
+      "line_id": "p0088-l0018",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 41,
+      "level": 1,
+      "title": "6. Composition",
+      "pdf_page": 90,
+      "line_id": "p0090-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: typeset title carries a 'Part'/'Chapter' prefix missing from the bookmark."
+    },
+    {
+      "outline_index": 42,
+      "level": 2,
+      "title": "Illegible Diagrams",
+      "pdf_page": 90,
+      "line_id": "p0090-l0009",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 43,
+      "level": 2,
+      "title": "Style Communicates",
+      "pdf_page": 96,
+      "line_id": "p0096-l0006",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: heading is at the bottom of the page before the bookmark target."
+    },
+    {
+      "outline_index": 44,
+      "level": 2,
+      "title": "Misleading Composition",
+      "pdf_page": 98,
+      "line_id": "p0098-l0023",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 45,
+      "level": 2,
+      "title": "Create a Visual Balance",
+      "pdf_page": 107,
+      "line_id": "p0107-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 46,
+      "level": 2,
+      "title": "Summary",
+      "pdf_page": 110,
+      "line_id": "p0110-l0010",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 47,
+      "level": 1,
+      "title": "II. Multimodal Communication",
+      "pdf_page": 112,
+      "line_id": "p0112-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: typeset title carries a 'Part'/'Chapter' prefix missing from the bookmark."
+    },
+    {
+      "outline_index": 48,
+      "level": 1,
+      "title": "7. Written Communication",
+      "pdf_page": 113,
+      "line_id": "p0113-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: typeset title carries a 'Part'/'Chapter' prefix missing from the bookmark."
+    },
+    {
+      "outline_index": 49,
+      "level": 2,
+      "title": "Simple Language",
+      "pdf_page": 113,
+      "line_id": "p0113-l0012",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 50,
+      "level": 2,
+      "title": "Acronym Hell",
+      "pdf_page": 116,
+      "line_id": "p0116-l0023",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 51,
+      "level": 2,
+      "title": "Structured Writing",
+      "pdf_page": 119,
+      "line_id": "p0119-l0006",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 52,
+      "level": 2,
+      "title": "Syntax of Technical Writing",
+      "pdf_page": 122,
+      "line_id": "p0122-l0020",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 53,
+      "level": 3,
+      "title": "Strong Verbs",
+      "pdf_page": 122,
+      "line_id": "p0122-l0030",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: heading is at the bottom of the page before the bookmark target."
+    },
+    {
+      "outline_index": 54,
+      "level": 3,
+      "title": "Short Sentences",
+      "pdf_page": 123,
+      "line_id": "p0123-l0026",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: heading is at the bottom of the page before the bookmark target."
+    },
+    {
+      "outline_index": 55,
+      "level": 3,
+      "title": "Precise Paragraphs",
+      "pdf_page": 124,
+      "line_id": "p0124-l0009",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 56,
+      "level": 3,
+      "title": "Consistent Vocabulary",
+      "pdf_page": 124,
+      "line_id": "p0124-l0030",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: heading is at the bottom of the page before the bookmark target."
+    },
+    {
+      "outline_index": 57,
+      "level": 3,
+      "title": "Audience Empathy",
+      "pdf_page": 125,
+      "line_id": "p0125-l0020",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 58,
+      "level": 2,
+      "title": "Summary",
+      "pdf_page": 128,
+      "line_id": "p0128-l0005",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 59,
+      "level": 1,
+      "title": "8. Verbal and Nonverbal Communication",
+      "pdf_page": 129,
+      "line_id": "p0129-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: typeset title carries a 'Part'/'Chapter' prefix missing from the bookmark."
+    },
+    {
+      "outline_index": 60,
+      "level": 2,
+      "title": "Encoding Messages",
+      "pdf_page": 129,
+      "line_id": "p0129-l0014",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 61,
+      "level": 3,
+      "title": "Using the Acceptance Prophecy",
+      "pdf_page": 129,
+      "line_id": "p0129-l0020",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 62,
+      "level": 3,
+      "title": "Giving Your Full Attention",
+      "pdf_page": 130,
+      "line_id": "p0130-l0017",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 63,
+      "level": 3,
+      "title": "Using Body Language and Gestures",
+      "pdf_page": 131,
+      "line_id": "p0131-l0014",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 64,
+      "level": 2,
+      "title": "Decoding Messages",
+      "pdf_page": 134,
+      "line_id": "p0134-l0004",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 65,
+      "level": 3,
+      "title": "Battling Bias",
+      "pdf_page": 134,
+      "line_id": "p0134-l0022",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 66,
+      "level": 3,
+      "title": "Being Present",
+      "pdf_page": 137,
+      "line_id": "p0137-l0018",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 67,
+      "level": 3,
+      "title": "Awareness of Cultural Differences",
+      "pdf_page": 138,
+      "line_id": "p0138-l0025",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: heading is at the bottom of the page before the bookmark target."
+    },
+    {
+      "outline_index": 68,
+      "level": 2,
+      "title": "Influence and Persuasion",
+      "pdf_page": 140,
+      "line_id": "p0140-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 69,
+      "level": 2,
+      "title": "Summary",
+      "pdf_page": 144,
+      "line_id": "p0144-l0020",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 70,
+      "level": 1,
+      "title": "9. The Rhetoric Triangle",
+      "pdf_page": 146,
+      "line_id": "p0146-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: typeset title carries a 'Part'/'Chapter' prefix missing from the bookmark."
+    },
+    {
+      "outline_index": 71,
+      "level": 2,
+      "title": "Ethos",
+      "pdf_page": 147,
+      "line_id": "p0147-l0002",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 72,
+      "level": 3,
+      "title": "Establish Your Credentials",
+      "pdf_page": 147,
+      "line_id": "p0147-l0007",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: heading is at the bottom of the page before the bookmark target."
+    },
+    {
+      "outline_index": 73,
+      "level": 3,
+      "title": "Use Trustworthy Sources",
+      "pdf_page": 150,
+      "line_id": "p0150-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 74,
+      "level": 3,
+      "title": "Be Transparent",
+      "pdf_page": 151,
+      "line_id": "p0151-l0022",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 75,
+      "level": 3,
+      "title": "Demonstrate Your Knowledge",
+      "pdf_page": 154,
+      "line_id": "p0154-l0017",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 76,
+      "level": 2,
+      "title": "Pathos",
+      "pdf_page": 155,
+      "line_id": "p0155-l0025",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 77,
+      "level": 3,
+      "title": "Tell a Story",
+      "pdf_page": 156,
+      "line_id": "p0156-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 78,
+      "level": 3,
+      "title": "Speak from the Heart",
+      "pdf_page": 159,
+      "line_id": "p0159-l0009",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 79,
+      "level": 3,
+      "title": "Use Vivid Language and Strong Imagery",
+      "pdf_page": 160,
+      "line_id": "p0160-l0023",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: heading is at the bottom of the page before the bookmark target."
+    },
+    {
+      "outline_index": 80,
+      "level": 2,
+      "title": "Logos",
+      "pdf_page": 162,
+      "line_id": "p0162-l0020",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 81,
+      "level": 3,
+      "title": "Use Data and Facts",
+      "pdf_page": 162,
+      "line_id": "p0162-l0024",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: heading is at the bottom of the page before the bookmark target."
+    },
+    {
+      "outline_index": 82,
+      "level": 3,
+      "title": "Make Logical Connections",
+      "pdf_page": 163,
+      "line_id": "p0163-l0025",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: heading is at the bottom of the page before the bookmark target."
+    },
+    {
+      "outline_index": 83,
+      "level": 3,
+      "title": "Use Reasoning and Argumentation",
+      "pdf_page": 164,
+      "line_id": "p0164-l0020",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 84,
+      "level": 2,
+      "title": "Summary",
+      "pdf_page": 166,
+      "line_id": "p0166-l0025",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: heading is at the bottom of the page before the bookmark target."
+    },
+    {
+      "outline_index": 85,
+      "level": 1,
+      "title": "III. Communicating Knowledge",
+      "pdf_page": 168,
+      "line_id": "p0168-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: typeset title carries a 'Part'/'Chapter' prefix missing from the bookmark."
+    },
+    {
+      "outline_index": 86,
+      "level": 1,
+      "title": "10. Knowledge Management Principles",
+      "pdf_page": 169,
+      "line_id": "p0169-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: typeset title carries a 'Part'/'Chapter' prefix missing from the bookmark."
+    },
+    {
+      "outline_index": 87,
+      "level": 2,
+      "title": "Products over Projects",
+      "pdf_page": 169,
+      "line_id": "p0169-l0012",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 88,
+      "level": 3,
+      "title": "Project Mindset",
+      "pdf_page": 169,
+      "line_id": "p0169-l0023",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: heading is at the bottom of the page before the bookmark target."
+    },
+    {
+      "outline_index": 89,
+      "level": 3,
+      "title": "Product Mindset",
+      "pdf_page": 170,
+      "line_id": "p0170-l0022",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 90,
+      "level": 2,
+      "title": "Abstractions over Text",
+      "pdf_page": 174,
+      "line_id": "p0174-l0020",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 91,
+      "level": 3,
+      "title": "Lists",
+      "pdf_page": 175,
+      "line_id": "p0175-l0002",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 92,
+      "level": 3,
+      "title": "Tables",
+      "pdf_page": 176,
+      "line_id": "p0176-l0014",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 93,
+      "level": 3,
+      "title": "Visual Abstractions",
+      "pdf_page": 178,
+      "line_id": "p0178-l0006",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 94,
+      "level": 3,
+      "title": "Word Clouds",
+      "pdf_page": 179,
+      "line_id": "p0179-l0014",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 95,
+      "level": 3,
+      "title": "Charts, Graphs, and Diagrams",
+      "pdf_page": 180,
+      "line_id": "p0180-l0013",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: heading is at the bottom of the page before the bookmark target."
+    },
+    {
+      "outline_index": 96,
+      "level": 3,
+      "title": "Other Abstractions",
+      "pdf_page": 181,
+      "line_id": "p0181-l0008",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 97,
+      "level": 2,
+      "title": "Perspective-Driven Documentation",
+      "pdf_page": 182,
+      "line_id": "p0182-l0007",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 98,
+      "level": 3,
+      "title": "DRY Perspectives",
+      "pdf_page": 183,
+      "line_id": "p0183-l0011",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 99,
+      "level": 3,
+      "title": "Fractal Perspectives",
+      "pdf_page": 184,
+      "line_id": "p0184-l0014",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 100,
+      "level": 3,
+      "title": "Implementing Perspectives",
+      "pdf_page": 186,
+      "line_id": "p0186-l0017",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 101,
+      "level": 2,
+      "title": "Summary",
+      "pdf_page": 189,
+      "line_id": "p0189-l0005",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 102,
+      "level": 1,
+      "title": "11. Knowledge and People",
+      "pdf_page": 190,
+      "line_id": "p0190-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: typeset title carries a 'Part'/'Chapter' prefix missing from the bookmark."
+    },
+    {
+      "outline_index": 103,
+      "level": 2,
+      "title": "Get Feedback Early and Often",
+      "pdf_page": 190,
+      "line_id": "p0190-l0010",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 104,
+      "level": 2,
+      "title": "Share the Load",
+      "pdf_page": 195,
+      "line_id": "p0195-l0022",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 105,
+      "level": 3,
+      "title": "Nonproprietary Formats",
+      "pdf_page": 196,
+      "line_id": "p0196-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 106,
+      "level": 3,
+      "title": "Accessibility",
+      "pdf_page": 198,
+      "line_id": "p0198-l0010",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 107,
+      "level": 3,
+      "title": "Collaboration",
+      "pdf_page": 200,
+      "line_id": "p0200-l0008",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 108,
+      "level": 3,
+      "title": "Roles and Responsibilities",
+      "pdf_page": 201,
+      "line_id": "p0201-l0002",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 109,
+      "level": 3,
+      "title": "Further Techniques",
+      "pdf_page": 201,
+      "line_id": "p0201-l0022",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 110,
+      "level": 2,
+      "title": "Just-in-Time Architecture",
+      "pdf_page": 202,
+      "line_id": "p0202-l0023",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 111,
+      "level": 2,
+      "title": "Summary",
+      "pdf_page": 207,
+      "line_id": "p0207-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 112,
+      "level": 1,
+      "title": "12. Effective Practices",
+      "pdf_page": 209,
+      "line_id": "p0209-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: typeset title carries a 'Part'/'Chapter' prefix missing from the bookmark."
+    },
+    {
+      "outline_index": 113,
+      "level": 2,
+      "title": "ADRs",
+      "pdf_page": 209,
+      "line_id": "p0209-l0007",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 114,
+      "level": 3,
+      "title": "ADR Structure",
+      "pdf_page": 211,
+      "line_id": "p0211-l0005",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 115,
+      "level": 3,
+      "title": "ADR Content",
+      "pdf_page": 215,
+      "line_id": "p0215-l0014",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 116,
+      "level": 3,
+      "title": "ADR Storage",
+      "pdf_page": 219,
+      "line_id": "p0219-l0002",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: heading is at the bottom of the page before the bookmark target."
+    },
+    {
+      "outline_index": 117,
+      "level": 3,
+      "title": "ADR Culture",
+      "pdf_page": 221,
+      "line_id": "p0221-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 118,
+      "level": 2,
+      "title": "Architecture Characteristics",
+      "pdf_page": 224,
+      "line_id": "p0224-l0023",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 119,
+      "level": 2,
+      "title": "All Documentation as Code",
+      "pdf_page": 230,
+      "line_id": "p0230-l0027",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 120,
+      "level": 3,
+      "title": "Technical Documentation",
+      "pdf_page": 231,
+      "line_id": "p0231-l0008",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 121,
+      "level": 3,
+      "title": "Automatically Generated Documentation",
+      "pdf_page": 235,
+      "line_id": "p0235-l0004",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 122,
+      "level": 3,
+      "title": "Other Documentation",
+      "pdf_page": 236,
+      "line_id": "p0236-l0019",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 123,
+      "level": 2,
+      "title": "Summary",
+      "pdf_page": 240,
+      "line_id": "p0240-l0002",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 124,
+      "level": 1,
+      "title": "IV. Communicating Remotely",
+      "pdf_page": 241,
+      "line_id": "p0241-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: typeset title carries a 'Part'/'Chapter' prefix missing from the bookmark."
+    },
+    {
+      "outline_index": 125,
+      "level": 1,
+      "title": "13. Remote Time",
+      "pdf_page": 242,
+      "line_id": "p0242-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: typeset title carries a 'Part'/'Chapter' prefix missing from the bookmark."
+    },
+    {
+      "outline_index": 126,
+      "level": 2,
+      "title": "Synchronize Time",
+      "pdf_page": 242,
+      "line_id": "p0242-l0021",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 127,
+      "level": 3,
+      "title": "Time Zone",
+      "pdf_page": 243,
+      "line_id": "p0243-l0008",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 128,
+      "level": 3,
+      "title": "Empathy and Compromise",
+      "pdf_page": 247,
+      "line_id": "p0247-l0004",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 129,
+      "level": 3,
+      "title": "Split Shifts",
+      "pdf_page": 248,
+      "line_id": "p0248-l0009",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 130,
+      "level": 2,
+      "title": "Respect Working Patterns",
+      "pdf_page": 250,
+      "line_id": "p0250-l0017",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 131,
+      "level": 3,
+      "title": "Communicate Availability",
+      "pdf_page": 251,
+      "line_id": "p0251-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 132,
+      "level": 3,
+      "title": "Defend Part-Time Hours",
+      "pdf_page": 251,
+      "line_id": "p0251-l0027",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: heading is at the bottom of the page before the bookmark target."
+    },
+    {
+      "outline_index": 133,
+      "level": 3,
+      "title": "Plan for Holidays",
+      "pdf_page": 252,
+      "line_id": "p0252-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 134,
+      "level": 3,
+      "title": "Account for Geography and Culture",
+      "pdf_page": 254,
+      "line_id": "p0254-l0020",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 135,
+      "level": 3,
+      "title": "Recognize Real Working Capacity",
+      "pdf_page": 256,
+      "line_id": "p0256-l0007",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 136,
+      "level": 2,
+      "title": "Improve Energy and Productivity",
+      "pdf_page": 257,
+      "line_id": "p0257-l0024",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 137,
+      "level": 3,
+      "title": "Control Notifications",
+      "pdf_page": 258,
+      "line_id": "p0258-l0002",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 138,
+      "level": 3,
+      "title": "Automate Tasks",
+      "pdf_page": 258,
+      "line_id": "p0258-l0027",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: heading is at the bottom of the page before the bookmark target."
+    },
+    {
+      "outline_index": 139,
+      "level": 3,
+      "title": "Work with Others’ Rhythms",
+      "pdf_page": 260,
+      "line_id": "p0260-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 140,
+      "level": 3,
+      "title": "Schedule for Energy",
+      "pdf_page": 260,
+      "line_id": "p0260-l0018",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 141,
+      "level": 2,
+      "title": "Summary",
+      "pdf_page": 262,
+      "line_id": "p0262-l0007",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 142,
+      "level": 1,
+      "title": "14. Remote Principles",
+      "pdf_page": 263,
+      "line_id": "p0263-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: typeset title carries a 'Part'/'Chapter' prefix missing from the bookmark."
+    },
+    {
+      "outline_index": 143,
+      "level": 2,
+      "title": "Meetings to Sync",
+      "pdf_page": 263,
+      "line_id": "p0263-l0009",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 144,
+      "level": 3,
+      "title": "Synchronous Versus Asynchronous",
+      "pdf_page": 263,
+      "line_id": "p0263-l0018",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 145,
+      "level": 3,
+      "title": "Enhance Meetings",
+      "pdf_page": 266,
+      "line_id": "p0266-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 146,
+      "level": 2,
+      "title": "Async to Think",
+      "pdf_page": 272,
+      "line_id": "p0272-l0005",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 147,
+      "level": 3,
+      "title": "Async Advantages",
+      "pdf_page": 272,
+      "line_id": "p0272-l0012",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 148,
+      "level": 3,
+      "title": "Async Obstacles",
+      "pdf_page": 273,
+      "line_id": "p0273-l0005",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 149,
+      "level": 3,
+      "title": "Direction Matters",
+      "pdf_page": 274,
+      "line_id": "p0274-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 150,
+      "level": 3,
+      "title": "Async Methods",
+      "pdf_page": 276,
+      "line_id": "p0276-l0008",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 151,
+      "level": 3,
+      "title": "Enhance Async",
+      "pdf_page": 279,
+      "line_id": "p0279-l0014",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 152,
+      "level": 2,
+      "title": "Remote-First Working",
+      "pdf_page": 281,
+      "line_id": "p0281-l0017",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 153,
+      "level": 3,
+      "title": "Remote-First Versus Remote-Friendly",
+      "pdf_page": 281,
+      "line_id": "p0281-l0022",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 154,
+      "level": 3,
+      "title": "Remote-First Benefits",
+      "pdf_page": 284,
+      "line_id": "p0284-l0009",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 155,
+      "level": 3,
+      "title": "Evolving to Remote-First",
+      "pdf_page": 286,
+      "line_id": "p0286-l0023",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 156,
+      "level": 2,
+      "title": "Summary",
+      "pdf_page": 290,
+      "line_id": "p0290-l0007",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 157,
+      "level": 1,
+      "title": "15. Remote Channels",
+      "pdf_page": 292,
+      "line_id": "p0292-l0001",
+      "method": "manual_review",
+      "status": "accepted",
+      "note": "Reviewed: typeset title carries a 'Part'/'Chapter' prefix missing from the bookmark."
+    },
+    {
+      "outline_index": 158,
+      "level": 2,
+      "title": "Symmetrical Email",
+      "pdf_page": 292,
+      "line_id": "p0292-l0008",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 159,
+      "level": 3,
+      "title": "Email Reasons",
+      "pdf_page": 293,
+      "line_id": "p0293-l0003",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 160,
+      "level": 3,
+      "title": "Email Expectations",
+      "pdf_page": 293,
+      "line_id": "p0293-l0020",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 161,
+      "level": 3,
+      "title": "Email Clarity",
+      "pdf_page": 294,
+      "line_id": "p0294-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 162,
+      "level": 3,
+      "title": "Email Tips",
+      "pdf_page": 296,
+      "line_id": "p0296-l0010",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 163,
+      "level": 2,
+      "title": "Online Presentations",
+      "pdf_page": 298,
+      "line_id": "p0298-l0006",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 164,
+      "level": 3,
+      "title": "Audience Engagement",
+      "pdf_page": 298,
+      "line_id": "p0298-l0011",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 165,
+      "level": 3,
+      "title": "Presentation Content",
+      "pdf_page": 300,
+      "line_id": "p0300-l0013",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 166,
+      "level": 3,
+      "title": "Screen Shares",
+      "pdf_page": 302,
+      "line_id": "p0302-l0011",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 167,
+      "level": 2,
+      "title": "Remote Tools and Governance",
+      "pdf_page": 302,
+      "line_id": "p0302-l0025",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 168,
+      "level": 3,
+      "title": "Selection Techniques",
+      "pdf_page": 303,
+      "line_id": "p0303-l0009",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 169,
+      "level": 3,
+      "title": "Remote Tools",
+      "pdf_page": 305,
+      "line_id": "p0305-l0009",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 170,
+      "level": 3,
+      "title": "Data Proliferation",
+      "pdf_page": 308,
+      "line_id": "p0308-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 171,
+      "level": 3,
+      "title": "Security",
+      "pdf_page": 310,
+      "line_id": "p0310-l0006",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 172,
+      "level": 3,
+      "title": "Tool Efficiency",
+      "pdf_page": 310,
+      "line_id": "p0310-l0023",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 173,
+      "level": 3,
+      "title": "Tool Governance",
+      "pdf_page": 311,
+      "line_id": "p0311-l0026",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 174,
+      "level": 2,
+      "title": "Summary",
+      "pdf_page": 320,
+      "line_id": "p0320-l0023",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 175,
+      "level": 1,
+      "title": "Epilogue",
+      "pdf_page": 322,
+      "line_id": "p0322-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 176,
+      "level": 1,
+      "title": "A. ADR Templates",
+      "pdf_page": 324,
+      "line_id": "p0324-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 177,
+      "level": 2,
+      "title": "ADR Structure",
+      "pdf_page": 324,
+      "line_id": "p0324-l0004",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 178,
+      "level": 3,
+      "title": "Identifier and Title: A Statement of the Decision Made",
+      "pdf_page": 324,
+      "line_id": "p0324-l0007",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 179,
+      "level": 2,
+      "title": "ADR Options",
+      "pdf_page": 325,
+      "line_id": "p0325-l0007",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 180,
+      "level": 1,
+      "title": "Index",
+      "pdf_page": 327,
+      "line_id": "p0327-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    },
+    {
+      "outline_index": 181,
+      "level": 1,
+      "title": "About the Author",
+      "pdf_page": 393,
+      "line_id": "p0393-l0001",
+      "method": "title_match",
+      "status": "accepted",
+      "note": "Matched normalized title text on the bookmark's destination page."
+    }
+  ],
+  "warnings": [],
+  "review_instructions": [
+    "Review boundaries.json in VS Code alongside lines.txt and the PDF.",
+    "An accepted boundary must have a valid line_id and its matching pdf_page.",
+    "For a non-heading bookmark, use status skip and explain why in note.",
+    "Keep boundaries in document order; same-line entries must form a parent-child chain.",
+    "Set reviewed to true only after reviewing. This is a human review gate.",
+    "Skipping a boundary never deletes its source text."
+  ]
+}

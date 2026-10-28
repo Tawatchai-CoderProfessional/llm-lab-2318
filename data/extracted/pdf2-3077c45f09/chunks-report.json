@@ -1,0 +1,10 @@
+{
+  "sections": 182,
+  "chunks": 761,
+  "max_chars": 900,
+  "overlap_chars": 100,
+  "section_characters": 534613,
+  "covered_characters": 534613,
+  "coverage_complete": true,
+  "note": "Character limits are not model token limits. No PDF chunks were embedded in this workshop."
+}
